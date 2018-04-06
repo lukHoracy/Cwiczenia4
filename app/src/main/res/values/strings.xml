@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cwiczenia4</string>
+    <string name="label_button_new_activity">Nowa aktywność</string>
+    <string name="label_result_value">Zwrócona wartość</string>
+    <string name="label_put_value">Podaj wartość</string>
+    <string name="label_button_return">Powrót</string>
+</resources>
